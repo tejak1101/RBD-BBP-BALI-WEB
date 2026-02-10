@@ -1,2 +1,3 @@
-# RBD-BBP-BALI-WEB
-Web
+streamlit
+mysql-connector-python
+pandas
